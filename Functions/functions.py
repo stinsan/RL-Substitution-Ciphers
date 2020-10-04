@@ -1,3 +1,9 @@
+import os
+from functions import *
+import numpy as np 
+import random
+import time
+
 # creates set of all words in dictionary 
 def make_word_set(path_to_words_file):
 	f = open(path_to_words_file)
@@ -82,6 +88,16 @@ def shift_letter(letter, shift):
 	if(letter.isupper() and offset > 90 or letter.islower() and offset > 122):
 		offset = (ord(letter) + shift - 26) 
 	return chr(offset)
+
+def get_files_in_dir(dir_path):
+	file_names = os.listdir(dir_path)
+	dir_path += "/"
+	files = []
+	for file_name in file_names:
+		file = open(dir_path + file_name)
+		message = file.read()
+		files.append(message)
+	return files
 
 
 
