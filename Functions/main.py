@@ -44,10 +44,10 @@ class Enviornment:
 		done = False
 		reward = -1
 		next_state = 0
-		updated_message = shift_message(self.message, action)
+		self.message = shift_message(self.message, action)
 		# Optimize
 		next_state = ord('a') - ord(get_letter_frequency(self.message)[0])
-		ratio = valid_words_in_message(updated_message, self.words)
+		ratio = valid_words_in_message(self.message, self.words)
 		if(ratio > 0.8):
 			reward = 26
 			done = True
@@ -62,7 +62,7 @@ symbols = ['.', ',',';','?', ':', '!']
 env = Enviornment()
 alpha = 0.1
 gamma = 0.99
-num_episodes = 250
+num_episodes = 500
 exploration_decay_rate = 0.01
 group_size = 25
 q_learning(env, alpha, gamma, num_episodes, exploration_decay_rate, group_size)
