@@ -7,6 +7,15 @@ KEY_FOLDER = os.path.join(os.getcwd(), 'keys')
 
 
 def encode_shift(file_list):
+    if not os.path.exists(PLAINTEXT_FOLDER):
+        raise RuntimeError("Plaintext folder at path " + PLAINTEXT_FOLDER + " does not exist.")
+
+    if not os.path.exists(CIPHERTEXT_FOLDER):
+        os.makedirs(CIPHERTEXT_FOLDER)
+
+    if not os.path.exists(KEY_FOLDER):
+        os.makedirs(KEY_FOLDER)
+
     for f in file_list:
         print('Encoding file by shift cipher: ' + os.path.basename(f))
 
@@ -34,14 +43,14 @@ def encode_shift(file_list):
 
         # Save ciphertext and shift key.
         ciphertext_filename = os.path.splitext(os.path.basename(f))[0].replace('plain', 'shift_cipher.txt')
-        ciphertext_file = open(os.path.join(CIPHERTEXT_FOLDER, 'shift', ciphertext_filename), 'w')
+        ciphertext_file = open(os.path.join(CIPHERTEXT_FOLDER, ciphertext_filename), 'w+')
         ciphertext_file.write(ciphertext)
 
         key_filename = os.path.splitext(os.path.basename(f))[0].replace('plain', 'shift_key.txt')
-        key_file = open(os.path.join(KEY_FOLDER, 'shift', key_filename), 'w')
+        key_file = open(os.path.join(KEY_FOLDER, key_filename), 'w+')
         key_file.write(str(shift_key))
 
-
+'''
 def encode_substitution(file_list):
     alphabet = list('abcdefghijklmnopqrstuvwxyz')
 
@@ -83,9 +92,8 @@ def encode_substitution(file_list):
         key_filename = os.path.splitext(os.path.basename(f))[0].replace('plain', 'substitution_key.txt')
         key_file = open(os.path.join(KEY_FOLDER, 'substitution', key_filename), 'w')
         key_file.write(substitution_key)
-
+'''
 
 if __name__ == '__main__':
     file_list = [os.path.join(PLAINTEXT_FOLDER, f) for f in os.listdir(PLAINTEXT_FOLDER)]
     encode_shift(file_list)
-    encode_substitution(file_list)

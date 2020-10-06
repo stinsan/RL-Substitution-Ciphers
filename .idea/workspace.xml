@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Functions/main.py" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7717837-c826-45c1-8260-bee7698054c9" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/Functions/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/q_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/sarsa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/enviornment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1797_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1798_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1799_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1800_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1825_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1826_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1827_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Adams_1828_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Arthur_1881_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Arthur_1882_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Arthur_1883_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Arthur_1884_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buchanan_1857_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buchanan_1858_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buchanan_1859_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buchanan_1860_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buren_1837_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buren_1838_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buren_1839_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Buren_1840_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_1989_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_1990_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_1991_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_1992_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2001_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2002_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2003_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2004_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2005_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2006_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2007_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Bush_2008_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Carter_1978_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Carter_1979_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Carter_1980_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Carter_1981_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1885_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1886_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1887_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1888_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1893_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1894_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1895_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Cleveland_1896_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1993_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1994_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1995_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1996_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1997_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1998_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_1999_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Clinton_2000_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1923_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1924_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1925_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1926_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1927_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Coolidge_1928_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1954_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1955_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1956_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1957_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1958_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1959_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1960_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Eisenhower_1961_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Fillmore_1850_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Fillmore_1851_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Fillmore_1852_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Ford_1975_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Ford_1976_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Ford_1977_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1869_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1870_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1871_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1872_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1873_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1874_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1875_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Grant_1876_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harding_1921_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harding_1922_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harrison_1889_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harrison_1890_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harrison_1891_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Harrison_1892_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hayes_1877_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hayes_1878_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hayes_1879_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hayes_1880_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hoover_1929_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hoover_1930_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hoover_1931_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Hoover_1932_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1829_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1830_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1831_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1832_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1833_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1834_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1835_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jackson_1836_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1801_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1802_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1803_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1804_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1805_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1806_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1807_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Jefferson_1808_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1865_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1866_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1867_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1868_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1964_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1965_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1966_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1967_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1968_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Johnson_1969_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Kennedy_1962_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Kennedy_1963_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Lincoln_1861_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Lincoln_1862_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Lincoln_1863_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Lincoln_1864_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1809_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1810_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1811_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1812_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1813_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1814_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1815_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Madison_1816_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/McKinley_1897_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/McKinley_1898_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/McKinley_1899_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/McKinley_1900_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1817_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1818_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1819_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1820_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1821_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1822_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1823_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Monroe_1824_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Nixon_1970_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Nixon_1971_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Nixon_1972_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Nixon_1973_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Nixon_1974_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2009_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2010_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2011_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2012_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2013_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2014_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2015_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Obama_2016_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Pierce_1853_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Pierce_1854_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Pierce_1855_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Pierce_1856_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Polk_1845_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Polk_1846_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Polk_1847_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Polk_1848_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1982_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1983_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1984_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1985_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1986_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1987_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Reagan_1988_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1901_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1902_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1903_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1904_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1905_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1906_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1907_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1908_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1934_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1935_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1936_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1937_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1938_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1939_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1940_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1941_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1942_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1943_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1944_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Roosevelt_1945_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Taft_1909_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Taft_1910_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Taft_1911_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Taft_1912_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Taylor_1849_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1946_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1947_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1948_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1949_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1950_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1951_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1952_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Truman_1953_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Trump_2017_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Trump_2018_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Tyler_1841_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Tyler_1842_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Tyler_1843_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Tyler_1844_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1791_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1792_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1793_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1794_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1795_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Washington_1796_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1913_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1914_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1915_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1916_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1917_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1918_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1919_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/shift/Wilson_1920_shift_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1797_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1798_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1799_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1800_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1825_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1826_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1827_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Adams_1828_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Arthur_1881_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Arthur_1882_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Arthur_1883_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Arthur_1884_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buchanan_1857_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buchanan_1858_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buchanan_1859_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buchanan_1860_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buren_1837_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buren_1838_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buren_1839_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Buren_1840_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_1989_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_1990_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_1991_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_1992_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2001_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2002_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2003_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2004_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2005_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2006_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2007_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Bush_2008_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Carter_1978_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Carter_1979_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Carter_1980_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Carter_1981_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1885_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1886_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1887_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1888_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1893_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1894_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1895_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Cleveland_1896_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1993_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1994_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1995_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1996_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1997_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1998_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_1999_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Clinton_2000_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1923_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1924_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1925_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1926_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1927_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Coolidge_1928_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1954_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1955_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1956_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1957_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1958_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1959_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1960_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Eisenhower_1961_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Fillmore_1850_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Fillmore_1851_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Fillmore_1852_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Ford_1975_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Ford_1976_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Ford_1977_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1869_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1870_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1871_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1872_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1873_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1874_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1875_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Grant_1876_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harding_1921_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harding_1922_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harrison_1889_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harrison_1890_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harrison_1891_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Harrison_1892_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hayes_1877_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hayes_1878_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hayes_1879_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hayes_1880_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hoover_1929_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hoover_1930_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hoover_1931_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Hoover_1932_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1829_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1830_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1831_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1832_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1833_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1834_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1835_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jackson_1836_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1801_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1802_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1803_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1804_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1805_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1806_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1807_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Jefferson_1808_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1865_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1866_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1867_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1868_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1964_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1965_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1966_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1967_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1968_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Johnson_1969_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Kennedy_1962_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Kennedy_1963_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Lincoln_1861_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Lincoln_1862_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Lincoln_1863_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Lincoln_1864_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1809_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1810_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1811_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1812_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1813_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1814_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1815_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Madison_1816_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/McKinley_1897_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/McKinley_1898_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/McKinley_1899_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/McKinley_1900_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1817_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1818_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1819_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1820_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1821_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1822_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1823_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Monroe_1824_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Nixon_1970_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Nixon_1971_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Nixon_1972_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Nixon_1973_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Nixon_1974_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2009_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2010_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2011_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2012_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2013_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2014_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2015_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Obama_2016_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Pierce_1853_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Pierce_1854_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Pierce_1855_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Pierce_1856_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Polk_1845_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Polk_1846_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Polk_1847_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Polk_1848_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1982_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1983_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1984_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1985_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1986_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1987_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Reagan_1988_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1901_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1902_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1903_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1904_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1905_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1906_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1907_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1908_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1934_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1935_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1936_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1937_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1938_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1939_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1940_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1941_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1942_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1943_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1944_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Roosevelt_1945_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Taft_1909_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Taft_1910_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Taft_1911_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Taft_1912_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Taylor_1849_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1946_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1947_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1948_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1949_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1950_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1951_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1952_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Truman_1953_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Trump_2017_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Trump_2018_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Tyler_1841_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Tyler_1842_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Tyler_1843_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Tyler_1844_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1791_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1792_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1793_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1794_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1795_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Washington_1796_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1913_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1914_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1915_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1916_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1917_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1918_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1919_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/ciphertexts/substitution/Wilson_1920_substitution_cipher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/generate_ciphers.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/generate_ciphers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1797_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1798_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1799_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1800_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1825_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1826_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1827_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Adams_1828_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Arthur_1881_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Arthur_1882_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Arthur_1883_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Arthur_1884_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buchanan_1857_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buchanan_1858_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buchanan_1859_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buchanan_1860_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buren_1837_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buren_1838_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buren_1839_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Buren_1840_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_1989_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_1990_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_1991_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_1992_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2001_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2002_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2003_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2004_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2005_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2006_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2007_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Bush_2008_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Carter_1978_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Carter_1979_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Carter_1980_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Carter_1981_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1885_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1886_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1887_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1888_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1893_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1894_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1895_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Cleveland_1896_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1993_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1994_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1995_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1996_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1997_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1998_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_1999_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Clinton_2000_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1923_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1924_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1925_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1926_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1927_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Coolidge_1928_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1954_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1955_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1956_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1957_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1958_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1959_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1960_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Eisenhower_1961_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Fillmore_1850_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Fillmore_1851_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Fillmore_1852_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Ford_1975_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Ford_1976_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Ford_1977_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1869_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1870_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1871_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1872_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1873_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1874_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1875_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Grant_1876_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harding_1921_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harding_1922_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harrison_1889_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harrison_1890_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harrison_1891_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Harrison_1892_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hayes_1877_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hayes_1878_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hayes_1879_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hayes_1880_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hoover_1929_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hoover_1930_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hoover_1931_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Hoover_1932_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1829_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1830_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1831_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1832_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1833_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1834_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1835_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jackson_1836_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1801_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1802_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1803_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1804_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1805_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1806_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1807_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Jefferson_1808_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1865_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1866_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1867_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1868_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1964_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1965_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1966_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1967_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1968_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Johnson_1969_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Kennedy_1962_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Kennedy_1963_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Lincoln_1861_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Lincoln_1862_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Lincoln_1863_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Lincoln_1864_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1809_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1810_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1811_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1812_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1813_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1814_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1815_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Madison_1816_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/McKinley_1897_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/McKinley_1898_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/McKinley_1899_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/McKinley_1900_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1817_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1818_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1819_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1820_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1821_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1822_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1823_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Monroe_1824_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Nixon_1970_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Nixon_1971_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Nixon_1972_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Nixon_1973_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Nixon_1974_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2009_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2010_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2011_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2012_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2013_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2014_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2015_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Obama_2016_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Pierce_1853_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Pierce_1854_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Pierce_1855_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Pierce_1856_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Polk_1845_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Polk_1846_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Polk_1847_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Polk_1848_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1982_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1983_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1984_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1985_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1986_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1987_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Reagan_1988_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1901_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1902_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1903_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1904_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1905_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1906_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1907_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1908_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1934_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1935_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1936_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1937_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1938_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1939_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1940_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1941_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1942_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1943_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1944_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Roosevelt_1945_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Taft_1909_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Taft_1910_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Taft_1911_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Taft_1912_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Taylor_1849_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1946_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1947_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1948_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1949_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1950_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1951_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1952_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Truman_1953_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Trump_2017_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Trump_2018_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Tyler_1841_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Tyler_1842_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Tyler_1843_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Tyler_1844_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1791_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1792_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1793_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1794_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1795_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Washington_1796_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1913_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1914_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1915_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1916_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1917_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1918_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1919_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/shift/Wilson_1920_shift_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1797_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1798_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1799_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1800_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1825_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1826_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1827_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Adams_1828_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Arthur_1881_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Arthur_1882_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Arthur_1883_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Arthur_1884_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buchanan_1857_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buchanan_1858_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buchanan_1859_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buchanan_1860_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buren_1837_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buren_1838_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buren_1839_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Buren_1840_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_1989_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_1990_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_1991_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_1992_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2001_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2002_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2003_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2004_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2005_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2006_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2007_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Bush_2008_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Carter_1978_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Carter_1979_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Carter_1980_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Carter_1981_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1885_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1886_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1887_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1888_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1893_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1894_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1895_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Cleveland_1896_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1993_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1994_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1995_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1996_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1997_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1998_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_1999_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Clinton_2000_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1923_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1924_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1925_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1926_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1927_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Coolidge_1928_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1954_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1955_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1956_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1957_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1958_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1959_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1960_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Eisenhower_1961_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Fillmore_1850_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Fillmore_1851_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Fillmore_1852_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Ford_1975_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Ford_1976_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Ford_1977_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1869_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1870_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1871_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1872_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1873_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1874_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1875_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Grant_1876_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harding_1921_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harding_1922_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harrison_1889_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harrison_1890_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harrison_1891_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Harrison_1892_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hayes_1877_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hayes_1878_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hayes_1879_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hayes_1880_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hoover_1929_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hoover_1930_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hoover_1931_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Hoover_1932_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1829_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1830_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1831_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1832_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1833_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1834_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1835_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jackson_1836_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1801_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1802_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1803_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1804_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1805_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1806_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1807_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Jefferson_1808_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1865_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1866_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1867_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1868_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1964_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1965_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1966_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1967_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1968_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Johnson_1969_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Kennedy_1962_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Kennedy_1963_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Lincoln_1861_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Lincoln_1862_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Lincoln_1863_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Lincoln_1864_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1809_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1810_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1811_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1812_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1813_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1814_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1815_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Madison_1816_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/McKinley_1897_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/McKinley_1898_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/McKinley_1899_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/McKinley_1900_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1817_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1818_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1819_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1820_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1821_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1822_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1823_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Monroe_1824_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Nixon_1970_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Nixon_1971_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Nixon_1972_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Nixon_1973_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Nixon_1974_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2009_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2010_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2011_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2012_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2013_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2014_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2015_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Obama_2016_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Pierce_1853_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Pierce_1854_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Pierce_1855_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Pierce_1856_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Polk_1845_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Polk_1846_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Polk_1847_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Polk_1848_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1982_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1983_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1984_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1985_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1986_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1987_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Reagan_1988_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1901_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1902_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1903_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1904_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1905_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1906_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1907_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1908_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1934_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1935_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1936_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1937_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1938_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1939_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1940_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1941_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1942_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1943_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1944_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Roosevelt_1945_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Taft_1909_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Taft_1910_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Taft_1911_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Taft_1912_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Taylor_1849_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1946_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1947_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1948_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1949_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1950_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1951_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1952_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Truman_1953_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Trump_2017_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Trump_2018_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Tyler_1841_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Tyler_1842_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Tyler_1843_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Tyler_1844_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1791_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1792_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1793_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1794_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1795_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Washington_1796_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1913_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1914_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1915_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1916_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1917_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1918_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1919_substitution_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/keys/substitution/Wilson_1920_substitution_key.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Training/generate_ciphers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/helpers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/q_learning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="80" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/sarsa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="55" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions/environment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/training/generate_ciphers.py" />
+        <option value="$PROJECT_DIR$/ShiftFunctions/enviornment.py" />
+        <option value="$PROJECT_DIR$/SubstitutionFunctions/Environment.py" />
+        <option value="$PROJECT_DIR$/ShiftFunctions/main.py" />
+        <option value="$PROJECT_DIR$/SubstitutionFunctions/functions.py" />
+        <option value="$PROJECT_DIR$/SubstitutionFunctions/environment.py" />
+        <option value="$PROJECT_DIR$/Functions/enviornment.py" />
+        <option value="$PROJECT_DIR$/Functions/letter.py" />
+        <option value="$PROJECT_DIR$/Training/generate_ciphers.py" />
+        <option value="$PROJECT_DIR$/Functions/functions.py" />
+        <option value="$PROJECT_DIR$/Functions/q_learning.py" />
+        <option value="$PROJECT_DIR$/Functions/environment.py" />
+        <option value="$PROJECT_DIR$/Functions/sarsa.py" />
+        <option value="$PROJECT_DIR$/Functions/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RL-Substitution-Ciphers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL-Substitution-Ciphers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RL-Substitution-Ciphers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL-Substitution-Ciphers" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RL-Substitution-Ciphers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL-Substitution-Ciphers" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="environment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL-Substitution-Ciphers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SubstitutionFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SubstitutionFunctions/environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_ciphers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL-Substitution-Ciphers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/generate_ciphers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL-Substitution-Ciphers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.generate_ciphers" />
+        <item itemvalue="Python.environment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7717837-c826-45c1-8260-bee7698054c9" name="Default Changelist" comment="" />
+      <created>1600206595941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600206595941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24815595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24815595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SubstitutionFunctions/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubstitutionFunctions/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="791" selection-start-line="791" selection-end-line="791" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/letter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/generate_ciphers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/sarsa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="55" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/q_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/helpers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
