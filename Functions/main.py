@@ -13,5 +13,3 @@ if __name__ == '__main__':
 
 	sarsa = SARSA(env, alpha, gamma, num_episodes, exploration_decay_rate, group_size)
 	sarsa.run()
-
-
