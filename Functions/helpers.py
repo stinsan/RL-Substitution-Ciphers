@@ -1,6 +1,5 @@
 import os
 
-
 # creates set of all words in dictionary 
 def make_word_set(path_to_words_file):
     f = open(path_to_words_file)
@@ -96,6 +95,35 @@ def get_files_in_dir(dir_path):
         files.append(file)
 
     return files
+
+# ---------------------------------------------------------------------------------------,
+
+def compare_SARSA_QLearingPlot(rewards_SARSA, rewards_Q_learning, num_episodes, group_size, title):
+    avg_rewards_SARSA = get_avg_reward_by_group(rewards_SARSA, group_size, num_episodes)
+    avg_rewards_Q_learning = get_avg_reward_by_group(rewards_Q_learning, group_size, num_episodes)
+
+
+    plt.plot(range(0, num_episodes, group_size),avg_rewards_SARSA, label = "SARSA")
+    plt.plot(range(0, num_episodes, group_size),avg_rewards_Q_learning, label = "Q-learning")
+    plt.xlabel('Episode')
+    
+    # Set the y axis label of the current axis.
+    plt.ylabel('Average reward per ' + str(group_size) + ' episodes')
+    # Set a title of the current axes.
+    plt.title(title)
+    # show a legend on the plot
+    plt.legend()
+    # Display a figure.
+    plt.show()
+
+def get_avg_reward_by_group(rewards, group_size, num_episodes):
+    rewards_per_group = np.split(np.array(rewards), num_episodes/group_size)
+    reward_bin = []
+    count = group_size
+    for r in rewards_per_group:
+        reward_bin.append(sum(r/ group_size))
+        count += group_size
+    return reward_bin
 
 
 
