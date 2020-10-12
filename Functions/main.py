@@ -9,7 +9,11 @@ if __name__ == '__main__':
 	num_episodes = 500
 	exploration_decay_rate = 0.005
 	group_size = 25
-	# q_learning(env, alpha, gamma, num_episodes, exploration_decay_rate, group_size)
 
 	sarsa = SARSA(env, alpha, gamma, num_episodes, exploration_decay_rate, group_size)
-	sarsa.run()
+	sarsa_rewards = sarsa.run()
+	q_learning_rewards =  q_learning(env, alpha, gamma, num_episodes, exploration_decay_rate, group_size)
+	
+	# same graph reward comparison
+	title = "Experiment 1: Shift Ciphers\nReward vs. Episode"
+	compare_rewards(sarsa_rewards, q_learning_rewards, num_episodes, group_size, title)

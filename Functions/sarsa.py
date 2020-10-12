@@ -74,6 +74,8 @@ class SARSA:
         plt.xlabel("Trials")
         plt.show()
 
+        return all_episode_rewards
+
     def get_action(self, state):
         if random.uniform(0, 1) > self.exploration_rate:  # Exploit
             action = np.argmax(self.q_table[state, :])

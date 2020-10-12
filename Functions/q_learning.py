@@ -69,6 +69,8 @@ def q_learning(env, alpha, gamma, num_episodes, exploration_decay, group_size):
     plt.xlabel("Trials")
     plt.show()
 
+    return rewards_all_episodes
+
 
 def print_optimal_policy(q_table):
     alphabet = [chr(ascii_char) for ascii_char in range(97, 123)]
